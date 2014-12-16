@@ -3,7 +3,7 @@ Miami-Open-211
 
 Open 211 for Miami Dade County.
 
-Project page: [http://projects.codeformiami.org/projects/miami_open211(http://projects.codeformiami.org/projects/miami_open211)
+Project page: [http://projects.codeformiami.org/projects/miami_open211](http://projects.codeformiami.org/projects/miami_open211)
 
 We're working with [Switchboard of Miami](http://switchboardmiami.org/) and the [Open Referral Initiative](https://www.openreferral.org/) to create Miami Open211: a platform for directory information about all of the health, human, and social services in our community.
 
