@@ -13,17 +13,13 @@ Switchboard has agreed (as an experiment) to deploy their data in an open platfo
 
 In the first phase of this project, we are going to experiment with the [Ohana API.](https://github.com/codeforamerica/ohana-api)
 
-Identified steps:
+###Identified steps:
 
-Transform a demonstrating package of Switchboard's 2-1-1 data into the Open Referral format. [Github repo here](http://github.com/codeforamerica/OpenReferral) — [Updated spec documentation here](https://docs.google.com/document/d/1gmNS4pBvkX4cI2wtH3Qco3uGF4LLTq1OJ0Pb_CLuxlk/edit)(this will require some script-writing and munging)
-
-Deploy Ohana API (it's in Ruby on Rails)
-
-Load transformed 2-1-1 data into Ohana [Instructions here.](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-OpenReferral-compliant-CSV-files)
-
-Deploy the Ohana Web Search module, for a basic front-end to start us off.
-
-Celebrate victory!
+- Transform a demonstrating package of Switchboard's 2-1-1 data into the Open Referral format. [Github repo here](http://github.com/codeforamerica/OpenReferral) — [Updated spec documentation here](https://docs.google.com/document/d/1gmNS4pBvkX4cI2wtH3Qco3uGF4LLTq1OJ0Pb_CLuxlk/edit)(this will require some script-writing and munging)
+- Deploy Ohana API (it's in Ruby on Rails)
+- Load transformed 2-1-1 data into Ohana [Instructions here.](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-OpenReferral-compliant-CSV-files)
+- Deploy the Ohana Web Search module, for a basic front-end to start us off.
+- Celebrate victory!
 
 Our Open Referral community is convened in this [Google Group.](http://groups.google.com/forum/#!forum/openreferral) It would be great to have at least one Code for Miami brigadeer join and introduce yourself and the project!
 
