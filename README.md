@@ -5,7 +5,7 @@ Open 211 for Miami Dade County.
 
 Project page: [http://projects.codeformiami.org/projects/miami_open211](http://projects.codeformiami.org/projects/miami_open211)
 
-We're working with [Switchboard of Miami](http://switchboardmiami.org/) and the [Open Referral Initiative](https://www.openreferral.org/) to create Miami Open211: a platform for directory information about all of the health, human, and social services in our community.
+We're working with [Switchboard of Miami](http://switchboardmiami.org/) and the [Open Referral Initiative](http://www.openreferral.org/) to create Miami Open211: a platform for directory information about all of the health, human, and social services in our community.
 
 Switchboard of Miami operates Miami-Dade's 2-1-1 call center, through which people in need can call to get referrals to services that can help them.
 
